@@ -7,4 +7,10 @@ This project utilizes computer vision, machine learning, and sensor technologies
 
 The aim of this project is to enhance the independence and safety of visually impaired people, allowing them to explore their environment with greater confidence.
 
-● Object Detection: Recognizes common objects in the environment and provides audio descriptions.
+The Project mainly consists of three modules,
+
+                                          * FACE RECOGNITION
+
+                                          * OBJECT DETECTION 
+
+                                          * TEXT RECOGNITION
