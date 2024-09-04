@@ -1,4 +1,3 @@
-Markup :  # Third_Eye #
 # Third_Eye
 
 The Third Eye Project is all about an assistive technology designed to aid visually impaired individuals in navigating their surroundings.
@@ -9,8 +8,6 @@ The aim of this project is to enhance the independence and safety of visually im
 
 The Project mainly consists of three modules,
 
-                                          * FACE RECOGNITION
-
-                                          * OBJECT DETECTION 
-
-                                          * TEXT RECOGNITION
+* FACE RECOGNITION
+* OBJECT DETECTION
+* TEXT RECOGNITION
